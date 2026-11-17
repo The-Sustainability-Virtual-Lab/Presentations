@@ -4,9 +4,10 @@ This repo collects the slides of the INCOSE **Sustainability Webinar Series (SWS
 the presentations that the Sustainability Virtual Lab and the INCOSE Sustainability
 Working Group gave.
 
-> **Rights.** The speakers keep the copyright of their slides. This repo has no
-> open license. Do not reuse or share a deck outside the Lab without the speaker's
-> permission. The "Rights" column shows what the deck itself says.
+> **Rights.** The speakers agreed to publish their slides here. They keep the
+> copyright, and this repo has no open license. You can read and link the decks.
+> To reuse slides or content in your own material, ask the speaker first. The
+> "Rights" column shows what the deck itself says.
 
 ## Sustainability Webinar Series
 
